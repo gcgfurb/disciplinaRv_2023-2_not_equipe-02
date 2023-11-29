@@ -6,9 +6,16 @@ Favor utilizar as respectivas pastas para postar os trabalhos de cada unidade.
 Alunos:  
 
 - Computação:  
-- Pedagogia:  
 
-Assunto:  
+  Daniel Busarello  
+  Eduardo Philippe Costa  
+  Guilherme Dal Pra Mota  
+  Mauros Milach Junior  
+  Vinicius Mueller Landi  
+  Vítor Gabriel Eduardo  
+
+Assunto: Uso do Oculus Quest 2 num jogo de Encaixe de Peças 3D.  
+Usou como exemplo o Jogo Tretis.  
 
 ## [Atividades da Unidade 1](unidade_1 "Atividades da Unidade 1")  
 
